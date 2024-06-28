@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Shukla</h1>
 <h3 align="center">Enthusiastic Computer Science Student and Emerging Developer</h3>
-<img align="center" alt="Coding" width="400" src="https://www.google.com/imgres?q=programming%20images%20gif&imgurl=https%3A%2F%2Fwww.iiserkol.ac.in%2F~cds%2Fassets%2Fimage%2Fintro_to_comp_programming.jpg&imgrefurl=https%3A%2F%2Fwww.iiserkol.ac.in%2F~cds%2Fcourses.html&docid=FxsdqQ8Zfeh5QM&tbnid=reLrYicCRKEkIM&vet=12ahUKEwjs2snkhauGAxUrwjgGHR9cALwQM3oECD4QAA..i&w=1500&h=843&hcb=2&ved=2ahUKEwjs2snkhauGAxUrwjgGHR9cALwQM3oECD4QAA">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuiiitg&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuiiitg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshuiiitg" alt="priyanshuiiitg" /></a> </p>
