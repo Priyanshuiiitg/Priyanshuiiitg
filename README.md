@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Shukla</h1>
-<h3 align="center">Enthusiastic Computer Science Student and Emerging Developer</h3>
+<!-- <h3 align="center">Enthusiastic Computer Science Student and Emerging Developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuiiitg&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuiiitg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshuiiitg" alt="priyanshuiiitg" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Open-source Web Development Project**
-
-- 🤝 I’m looking for help with **Machine Learning Research Project**
+- 👯 I’m looking to collaborate on **Open-source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshuiiitg](https://github.com/Priyanshuiiitg)
 
